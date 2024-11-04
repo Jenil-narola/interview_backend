@@ -1,0 +1,3 @@
+{
+  "ignore": ["file_to_sync/*"]
+}
